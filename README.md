@@ -34,6 +34,15 @@ This repository contains Python projects and exercises completed during my unive
 * **Loops:** Iterating with `for` loops over different data types and using `while` loops for conditional execution.
 * **Loop Control:** Using `break` to exit a loop.
 
+### 4. Exception Handling
+* **File:** `exception_handling.ipynb`
+* **Description:** This notebook covers how to handle errors and exceptions in Python using `try...except` blocks to build more reliable applications.
+
+#### Topics Covered:
+* **Handling Errors:** Using `try` and `except` to prevent program crashes.
+* **Specific Exceptions:** Catching specific errors like `ZeroDivisionError` and `ValueError`.
+* **Custom Exceptions:** Defining and raising custom exception classes.
+
 ---
 
 ## ▶️ How to Use
