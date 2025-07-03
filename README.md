@@ -8,31 +8,31 @@ This repository contains Python projects and exercises completed during my unive
 
 ## 📁 Projects
 
-### 1. Intro to lists and dicts
-**File:** `intro_to_lists_and_dicts.ipynb`  
-**Description:** a Jupyter Notebook with my first exercises in Python. It provides hands-on experience with essential programming concepts.
+### 1. Intro to dicts and lists
+* **File:** `intro_to_lists_and_dicts.ipynb`
+* **Description:** This Jupyter Notebook contains my initial exercises exploring the fundamentals of Python. It's a hands-on introduction to core programming concepts.
 
-**Topics Covered:**
-- **Variables** – Declaring and assigning values  
-- **Control Flow** – Using `if`, `elif`, and `else` statements  
-- **Functions** – Creating reusable code with simple functions  
-- **Data Structures:**
-  - **Lists** – Creating and modifying lists  
-  - **Dictionaries** – Working with key-value pairs  
-  - **Tuples** – Understanding immutable sequences
- 
----
+#### Topics Covered:
+* **Variables & Data Structures:** Lists, Dictionaries, and Tuples.
+* **Control Flow:** Using `if`, `elif`, and `else` statements.
 
-### 2. Working with Functions in Python  
-**File:** `exercise_3_functions.ipynb`  
-**Description:**  
-This notebook focuses on defining and using functions in Python — a core concept for writing clean and efficient code.
+### 2. Functions in Python
+* **File:** `functions.ipynb`
+* **Description:** This notebook focuses on defining and using functions in Python, a core concept for writing clean and efficient code.
 
-**Topics Covered:**
-- **Function Basics** – Defining functions, calling them, and understanding function objects  
-- **Parameters** – Passing arguments, using default values, and keyword arguments  
-- **Return Values** – Using `return` to send data back from a function  
-- **Scope** – A brief look at how variables are accessed within functions  
+#### Topics Covered:
+* **Function Basics:** Defining and calling functions.
+* **Parameters:** Passing arguments, using default values, and keyword arguments.
+* **Return Values:** Using the `return` statement to send data back from a function.
+
+### 3. Control Flow Statements
+* **File:** `control_flow.ipynb`
+* **Description:** An in-depth exercise on control flow, covering conditional logic and loops to manage the execution path of a program.
+
+#### Topics Covered:
+* **Conditional Logic:** Advanced use of `if/else` statements.
+* **Loops:** Iterating with `for` loops over different data types and using `while` loops for conditional execution.
+* **Loop Control:** Using `break` to exit a loop.
 
 ---
 
