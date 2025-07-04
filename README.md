@@ -43,6 +43,15 @@ This repository contains Python projects and exercises completed during my unive
 * **Specific Exceptions:** Catching specific errors like `ZeroDivisionError` and `ValueError`.
 * **Custom Exceptions:** Defining and raising custom exception classes.
 
+### 5. Mini-Projects: ATM and Number Game
+* **File:** `mini_apps.ipynb`
+* **Description:** This notebook combines previous concepts to build two small, interactive applications: a simple ATM simulator and a timed math game.
+
+#### Topics Covered:
+* **Application Structure:** Combining multiple functions to create a complete program.
+* **State Management:** Using variables to manage state like login status and session activity.
+* **User Interaction:** Building simple text-based menus and games.
+
 ---
 
 ## ▶️ How to Use
