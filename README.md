@@ -52,6 +52,16 @@ This repository contains Python projects and exercises completed during my unive
 * **State Management:** Using variables to manage state like login status and session activity.
 * **User Interaction:** Building simple text-based menus and games.
 
+### 6. Introduction to Object-Oriented Programming
+* **File:** `object_oriented_programming.ipynb`
+* **Description:** This project introduces the fundamentals of Object-Oriented Programming (OOP) by building a `Hero` class for a role-playing game.
+
+#### Topics Covered:
+* **Classes and Objects:** Defining a class and creating instances (objects).
+* **Attributes:** Using the `__init__` method to define object properties.
+* **Methods:** Creating functions within a class to define object behaviors.
+* **Encapsulation:** Protecting data by using private attributes (`__`).
+
 ---
 
 ## ▶️ How to Use
