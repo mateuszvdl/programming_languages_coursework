@@ -62,6 +62,16 @@ This repository contains Python projects and exercises completed during my unive
 * **Methods:** Creating functions within a class to define object behaviors.
 * **Encapsulation:** Protecting data by using private attributes (`__`).
 
+### 7. Advanced OOP with File I/O
+* **File:** `oop_files.ipynb`
+* **Description:** A project that builds on OOP concepts by integrating file I/O. It demonstrates how to create objects from data stored in an external JSON file, building a more realistic ATM application.
+
+#### Topics Covered:
+* **File I/O:** Reading from and writing to JSON files.
+* **Object Hydration:** Creating class instances from file data.
+* **Data Persistence:** Updating a JSON file with changes made during the program's execution.
+* **Modular Design:** Structuring an application with multiple interacting classes (`Customer`, `Session`).
+
 ---
 
 ## ▶️ How to Use
