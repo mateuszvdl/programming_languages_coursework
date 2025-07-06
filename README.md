@@ -74,11 +74,22 @@ This repository contains Python projects and exercises completed during my unive
 
 ---
 
-## ▶️ How to Use
+## ✅ How to Use
 
-You can view the Jupyter Notebooks directly on GitHub.
+To run these projects on your local machine, you will need a tool that can open and execute Jupyter Notebooks (`.ipynb` files).
 
-To run them locally:
+1.  **Clone the repository:**
+    First, clone this repository to your local machine using the following command in your terminal.
+    ```bash
+    git clone [https://github.com/your-username/your-python-repo.git](https://github.com/your-username/your-python-repo.git)
+    ```
+    *(Remember to replace `your-username/your-python-repo.git` with the actual URL of your repository).*
 
-```bash
-git clone https://github.com/your-username/your-repository-name.git
+2.  **Open the Notebooks:**
+    Navigate into the cloned folder and open the `.ipynb` files in an application like **Jupyter Lab**, **Jupyter Notebook**, or **Visual Studio Code** (with the Python and Jupyter extensions installed).
+
+3.  **Run the Code:**
+    Once opened, you can run the code cells within each notebook to see the output and interact with the exercises.
+
+4.  **Using the JSON File:**
+    For the "Advanced OOP with File I/O" project (`exercise_8_oop_with_files.ipynb`), make sure the `customer_data.json` file is in the same directory as the notebook file. The script needs this file to load customer data.
