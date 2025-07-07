@@ -72,6 +72,15 @@ This repository contains Python projects and exercises completed during my unive
 * **Data Persistence:** Updating a JSON file with changes made during the program's execution.
 * **Modular Design:** Structuring an application with multiple interacting classes (`Customer`, `Session`).
 
+### 8. Integrating Python with a Database (SQLite)
+* **File:** `exercise_9_python_with_sqlite.ipynb`
+* **Description:** This final project refactors the ATM application to use a proper SQLite database for data persistence instead of a JSON file. It demonstrates how to execute SQL queries from within a Python script.
+
+#### Topics Covered:
+* **Database Connection:** Connecting to an SQLite database using Python's `sqlite3` module.
+* **Executing SQL:** Running `CREATE`, `INSERT`, `SELECT`, and `UPDATE` commands from Python.
+* **Data Integration:** Fetching data from the database to create Python objects and updating the database with changes made to those objects.
+
 ---
 
 ## ✅ How to Use
